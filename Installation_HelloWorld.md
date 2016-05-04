@@ -5,4 +5,4 @@ The R installation contains the R app, a perfectly suitable workspace, however R
 
 Programs are run in the R workspace and require no boiler plate. Although it is not boiler plate, the command "dir.create" followed by a name is useful as it allows you to create a directory to hold all the files for a particular program.
 
-Other useful starter information includes the separation of commands using the semi-colon(;) as well as comments which are enacted with a hashtag(#) with everything to the end of the line being a comment.
+Other useful starter information includes the separation of commands using the semi-colon(;) as well as the enacting of comments through a hashtag(#) with everything to the end of the line being a comment.

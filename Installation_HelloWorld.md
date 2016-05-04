@@ -10,9 +10,7 @@ Other useful starter information includes the separation of commands using the s
 
 #HelloWorld
 example<-function(){
-
 msg = "Hello World!";
-
 return(msg)}
 
 example()

@@ -1,5 +1,4 @@
 #Variables in R
-
 INTEGER
 x <- 5;
 x
@@ -31,7 +30,6 @@ ex3 <- list(first = "ron", last = "weasley", num = 3);
 dict <- list(hp = ex, hg = ex2, rw = ex3)
 
 #Data Types and Naming Conversions
-
 R is a dynamic, strongly typed language.  Its has very minimal naming requirements dictate names can be any alphanumeric string including underscores so long as it starts with a character.  Variables are assigned using "<-" or "=" and do not require any special prefixes to designate types. As a dynamic language, the value of a variable can be reassigned at will however, as a static language there are strong distinctions for numeric and non-numeric variables and their interactions.
 
 For example, in order for a line such as

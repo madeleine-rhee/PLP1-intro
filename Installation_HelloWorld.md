@@ -3,6 +3,6 @@ R can be installed on all platforms without problems.  There are versions and ar
 
 The R installation contains the R app, a perfectly suitable workspace, however R Studio comes highly recommended for its streamlined interface and environment display.  
 
-Programs are run in the R workspace and require no boiler plate. Although it is not boiler plate, the command "dir.create" followed by a name is useful as it allows you to create a directory to hold all the files for a particular program.
+Programs are run in the R workspace and require no boiler plate. However, the command "dir.create" followed by a name is useful when beginning a program as it allows you to create a directory to hold all necessary files.
 
 Other useful starter information includes the separation of commands using the semi-colon(;) as well as the enacting of comments through a hashtag(#) with everything to the end of the line being a comment.

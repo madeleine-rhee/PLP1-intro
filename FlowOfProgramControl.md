@@ -3,7 +3,7 @@
 The flow of program control in R has all the common statements with relatively logical syntax.
 
 **If/Else**
-x<-5
+x<-5;
 if(x==5){print("x = 5!")}
 
 if (x<0){print("x is negative!")
